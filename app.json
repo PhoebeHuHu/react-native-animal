@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "react-native-app",
-    "slug": "react-native-app",
+    "name": "Aora",
+    "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "icon": "./assets/icons/cat.png",
+    "scheme": "aora",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/icons/cat.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/icons/cat.png",
         "backgroundColor": "#ffffff"
       }
     },
